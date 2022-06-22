@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --group-directories-first --indicator-style=slash --format=commas -av
+ls --group-directories-first --indicator-style=slash --format=commas --sort=version -a
