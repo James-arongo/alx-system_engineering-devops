@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x (drwxr-xr-x)
+chmod 755 (drwxr-xr-x)
